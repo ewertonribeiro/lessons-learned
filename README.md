@@ -14,4 +14,4 @@
 
 ## Teste Você Mesmo 🚀:
 
-<a target="_blank" href="https://lessons-learned-ewerton.netlify.app/">Link do Projeto</a>
+<a style="target:blank" href="https://lessons-learned-ewerton.netlify.app/">Link do Projeto</a>
