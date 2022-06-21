@@ -12,6 +12,6 @@
 
 #### 2. [CSS](https://www.w3schools.com/Css/)
 
-## Teste Você Mesmo 🚀:
+## Veja Você Mesmo 🚀:
 
 <a style="target:blank" href="https://lessons-learned-ewerton.netlify.app/">Link do Projeto</a>
