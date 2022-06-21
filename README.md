@@ -14,4 +14,4 @@
 
 ## Teste Você Mesmo 🚀:
 
-[Link do Projeto](.https://lessons-learned-ewerton.netlify.app/)
+[Link do Projeto](https://lessons-learned-ewerton.netlify.app/)
